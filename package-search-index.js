@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch.ncavallini.raiplayvideodownloader"},{"l":"ch.ncavallini.raiplayvideodownloader.util"}];updateSearchResults();
